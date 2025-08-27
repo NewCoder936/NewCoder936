@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NewCoder936
 - 👀 I’m interested in being an extremely advanced in web development and AI
-- 🌱 I’m currently learning wed development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on understanding and learning new tricks.
 - 😄 Pronouns: He/him.
 
